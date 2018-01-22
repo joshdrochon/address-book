@@ -1,0 +1,12 @@
+#initially-hidden{
+  display: none;
+}
+
+.contact {
+  cursor: pointer;
+  color: #0088cc
+}
+
+.contact{
+  text-decoration: underline;
+}
